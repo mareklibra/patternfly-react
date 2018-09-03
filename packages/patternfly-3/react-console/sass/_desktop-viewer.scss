@@ -1,0 +1,47 @@
+.desktop-viewer > .row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.manual-connection > h2 {
+  text-align: center;
+}
+
+.manual-connection > p {
+  text-align: center;
+}
+
+.manual-connection > div {
+  width: 50%;
+  margin: auto;
+}
+
+.manual-connection dd {
+  font-weight: bolder;
+}
+
+.manual-connection dt {
+  font-weight: normal;
+}
+
+.remote-viewer {
+  position: relative;
+  top: 15%;
+}
+
+.remote-viewer-launch {
+  text-align: center;
+}
+
+.remote-viewer-more-info {
+  text-align: center;
+  margin-top: 1em;
+}
+
+.more-information-install {
+  display: inline-flex;
+}
+
+.more-information-install > b {
+  margin-right: 5px;
+}
